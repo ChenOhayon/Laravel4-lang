@@ -19,6 +19,6 @@ return array(
 
     "token"    => "אסימון איפוס הסיסמה הזה לא תקני.",
 
-    "sent"     => "Password reminder sent!",
+    "sent"     => "תזכורת לסיסמה נשלחה!",
 
 );
